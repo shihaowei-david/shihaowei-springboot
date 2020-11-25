@@ -1,0 +1,10 @@
+person/shw/springboot/plugin/gateway/bean/APIService.class
+person/shw/springboot/plugin/gateway/bean/APIApplication.class
+person/shw/springboot/plugin/gateway/cache/GatewayAPICache.class
+person/shw/springboot/plugin/gateway/constant/RequestMethod.class
+person/shw/springboot/plugin/gateway/annotation/EnableGatewayAPI.class
+person/shw/springboot/plugin/gateway/util/NacosUtils.class
+person/shw/springboot/plugin/gateway/bean/APIMethod.class
+person/shw/springboot/plugin/gateway/annotation/GatewayAPI.class
+person/shw/springboot/plugin/gateway/config/GatewayAPIAutoConfiguration.class
+person/shw/springboot/plugin/gateway/scanner/GatewayAPIAnnotationScanner.class

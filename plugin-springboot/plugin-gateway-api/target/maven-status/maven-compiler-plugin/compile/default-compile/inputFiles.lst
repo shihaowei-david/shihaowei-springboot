@@ -1,0 +1,10 @@
+/Users/edz/code/shihaowei-springboot/plugin-springboot/plugin-gateway-api/src/main/java/person/shw/springboot/plugin/gateway/cache/GatewayAPICache.java
+/Users/edz/code/shihaowei-springboot/plugin-springboot/plugin-gateway-api/src/main/java/person/shw/springboot/plugin/gateway/bean/APIService.java
+/Users/edz/code/shihaowei-springboot/plugin-springboot/plugin-gateway-api/src/main/java/person/shw/springboot/plugin/gateway/annotation/EnableGatewayAPI.java
+/Users/edz/code/shihaowei-springboot/plugin-springboot/plugin-gateway-api/src/main/java/person/shw/springboot/plugin/gateway/constant/RequestMethod.java
+/Users/edz/code/shihaowei-springboot/plugin-springboot/plugin-gateway-api/src/main/java/person/shw/springboot/plugin/gateway/util/NacosUtils.java
+/Users/edz/code/shihaowei-springboot/plugin-springboot/plugin-gateway-api/src/main/java/person/shw/springboot/plugin/gateway/bean/APIMethod.java
+/Users/edz/code/shihaowei-springboot/plugin-springboot/plugin-gateway-api/src/main/java/person/shw/springboot/plugin/gateway/config/GatewayAPIAutoConfiguration.java
+/Users/edz/code/shihaowei-springboot/plugin-springboot/plugin-gateway-api/src/main/java/person/shw/springboot/plugin/gateway/annotation/GatewayAPI.java
+/Users/edz/code/shihaowei-springboot/plugin-springboot/plugin-gateway-api/src/main/java/person/shw/springboot/plugin/gateway/bean/APIApplication.java
+/Users/edz/code/shihaowei-springboot/plugin-springboot/plugin-gateway-api/src/main/java/person/shw/springboot/plugin/gateway/scanner/GatewayAPIAnnotationScanner.java

@@ -1,0 +1,9 @@
+person/shw/springboot/plugin/eventqueue/event/EventWrapperFactory.class
+person/shw/springboot/plugin/eventqueue/handler/ClearEventHandler.class
+person/shw/springboot/plugin/eventqueue/producer/EventProducer.class
+person/shw/springboot/plugin/eventqueue/consumer/AbstractEventConsumer.class
+person/shw/springboot/plugin/eventqueue/handler/EventExceptionHandler.class
+person/shw/springboot/plugin/eventqueue/consumer/EventConsumer.class
+person/shw/springboot/plugin/eventqueue/producer/AbstractEventProducer.class
+person/shw/springboot/plugin/eventqueue/event/EventWrapperTranslator.class
+person/shw/springboot/plugin/eventqueue/event/EventWrapper.class
