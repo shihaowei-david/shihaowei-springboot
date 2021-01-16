@@ -41,7 +41,7 @@ public class GatewayAPIAutoConfiguration {
             DisableCircularReferenceDetect
     };
 
-    @NacosInjected(properties = @NacosProperties(serverAddr = "120.79.76.230:8848",namespace = "${namespace:}"))
+    @NacosInjected(properties = @NacosProperties(serverAddr = "47.105.165.0:8848",namespace = "${namespace:}"))
     private ConfigService configService;
 
 

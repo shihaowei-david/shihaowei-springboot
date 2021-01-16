@@ -10,6 +10,9 @@
     <modules>
         <module>plugin-springboot</module>
         <module>configure-springboot</module>
+        <module>plugin-cache-jedis</module>
+        <module>plugin-springboot/plugin-mq</module>
+        <module>plugin-springboot/plugin-cache-jedis</module>
     </modules>
 
     <packaging>pom</packaging>
